@@ -1,1 +1,2 @@
 Hello from the library. I am testing my git setup.
+This is the second line.
